@@ -14,3 +14,7 @@ Open this repository in **Android Studio** and run the app.
 - Users can **save** current weather into a list, **edit** and **delete** it
 - Layout made for landscape and portrait mode
 - Custom animations and sounds made for checking if city exists or not
+
+
+https://github.com/MarkoTkalec321/My-Weather-Hub/assets/123999173/f1dd0e70-f0fb-4cae-89d2-4d6229111694
+
