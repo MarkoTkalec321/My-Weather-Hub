@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045420922180",
+    "project_id": "final-project-f6313",
+    "storage_bucket": "final-project-f6313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045420922180:android:b5b22eb8d35718c6a6b311",
+        "android_client_info": {
+          "package_name": "android.tvz.hr.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045420922180-3o9brpfv2d4uf7c57p6fjlvcehpfajgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ne6e5_9qSzNFtOBA-WeyHpb-MTWJ9_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045420922180-3o9brpfv2d4uf7c57p6fjlvcehpfajgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
