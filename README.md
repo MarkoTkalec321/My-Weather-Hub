@@ -1,5 +1,5 @@
 # My Weather Hub
-An Android app for checking and saving current weather
+An Android app for checking and saving current weather using Cloud Firestore and NoSQL database
 ## Project Description
 My Weather Hub shows current weather for the user's city. User can also save shown forecast into a list.
 ### API usage
